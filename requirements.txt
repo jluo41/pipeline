@@ -1,0 +1,17 @@
+datasets
+pandas
+pyarrow
+requests
+scikit-learn
+scipy
+tokenizers
+xgboost
+Werkzeug
+Pympler
+torch
+torchvision
+numpy
+matplotlib
+regex
+safetensors>=0.4.1
+ipykernel
